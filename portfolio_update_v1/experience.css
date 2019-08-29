@@ -57,25 +57,14 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/mbs_backdrop.jpg') no-repeat top ;
+  background: url('images/working.jpg') no-repeat top ;
   background-size: cover;
-  background-position: 50% 15%;
+  background-position: 50% 75%;
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 200px;
 }
 header {
   line-height: 1.5;
-}
-header .profile-image {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
-  transition: all .5s;
-}
-header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
 }
 .tag {
   background-color: #efefef;
@@ -101,24 +90,6 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #ff99ff;
-}
-
-ul.skills {
-  padding: 0;
-  text-align: center;
-}
-
-.skills li {
-  border-radius: 6px;
-  display: inline-block;
-  background: #ff9904;
-  color: white;
-  padding: 5px 10px;
-  margin: 2px;
-}
-
-.skills li:nth-child(odd) {
-  background: #0399ff;
 }
 
 footer {
