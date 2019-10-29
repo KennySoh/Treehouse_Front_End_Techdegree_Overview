@@ -7,11 +7,12 @@ The following details all the projects from the Front End Web Development Techde
 5. [A Photo Gallery, with jQuery & Javascript](#unit5)
 6. [A Game Show App, JS ](#unit6)
 
-  
-  
-  
-  
-  
+<br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
   
 <a name="unit1"></a>
 # Unit1- A Basic Webpage
@@ -26,14 +27,13 @@ This is a basic html & css markup website.
   
 ## A sample of the project
 ![images](https://github.com/KennySoh/treehouse_unit1_Basic_Webpage/blob/master/sample-pic.png)
-  
-  
-  
-  
-  
-  
-  
-  
+<br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+
 <a name="unit2"></a>
 # Unit2- A Responsive Webdesign, a mobile first approach
 
