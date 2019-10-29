@@ -78,7 +78,9 @@ A responsive HTML Form coded from scratch.
    - breakpoint set at 768px
 
 
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit3_Responsive_Registration_Form
+**To Explore the projects:**
+  - Github: https://github.com/KennySoh/treehouseFE_unit3_Responsive_Registration_Form
+  - Github Page: https://kennysoh.github.io/treehouseFE_unit3_Responsive_Registration_Form
 
 ## A sample of the project
 
@@ -89,7 +91,7 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 # Unit4- A Web Style Guide & The use of Sass. 
 A style guide is used defined the look and feel of user interface elements on a site. Sass is used to streamline the css creation. 
 
-***
+
 **Highlights**
 - SASS
   - Introduction of vairables 
@@ -130,9 +132,10 @@ A style guide is used defined the look and feel of user interface elements on a 
     'layout/footer';
   ```
   - The use of mixins to adhere to DRY concepts
-***
 
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit4_SASS/
+**To Explore the projects:**
+  - Github: https://github.com/KennySoh/treehouseFE_unit4_SASS
+  - Github Page: https://kennysoh.github.io/treehouseFE_unit4_SASS/
 
 ## A sample of the project
 |![images](https://github.com/KennySoh/treehouseFE_unit4_SASS/blob/master/sample-pic.png) |
@@ -141,16 +144,17 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 # A Photo Gallery, with jQuery & Javascript
 A responsive Photo Gallery with a filter funcitonality 
 
-***
+
 **Highlights**
 - The use of a jQuery Plugin 
   - A responsive photo Gallery implmentation 
 - Content Filtering
   - Images are filtered in real-time based on user input
 - A mobile first reponsive design
-***
 
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit5_Photo_Gallery_With_jQuery
+**To Explore the projects:**
+  - Github: https://github.com/KennySoh/treehouseFE_unit5_Photo_Gallery_With_jQuery
+  - Github Page: https://kennysoh.github.io/treehouseFE_unit5_Photo_Gallery_With_jQuery
 
 ## A sample of the project
 
@@ -170,7 +174,9 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 # Unit6- A Game Show App, JS 
 Multiple Screen Overlay transition and Dynamic word guessing with js. 
 
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit6_Word_Guessing_App
+**To Explore the projects:**
+  - Github: https://github.com/KennySoh/treehouseFE_unit6_Word_Guessing_App
+  - Github Page: https://kennysoh.github.io/treehouseFE_unit6_Word_Guessing_App
 
 ## A sample of the project
 
