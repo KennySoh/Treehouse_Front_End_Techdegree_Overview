@@ -9,7 +9,7 @@
 
 <a name="unit1"></a>
 # Unit1- A Basic Webpage
-This is a pure html & css markup website. 
+This is a basic html & css markup website. 
    
 
 ***
@@ -27,6 +27,7 @@ This is a pure html & css markup website.
 A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1024px)
 
 ***
+**Highlights**
 - css
   - normalize.css (used to ensure cross browser uniformity) 
   - a Mobile First approach
@@ -35,8 +36,14 @@ A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1
 - google font
   - font-family: 'Carter One', cursive;
 ***
-
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit2_Responsive_Design
+  
+  
+  
+***
+**To Explore the projects:**
+  - Github: https://github.com/KennySoh/treehouseFE_unit2_Responsive_Design
+  - Github Page: https://kennysoh.github.io/treehouseFE_unit2_Responsive_Design
+***  
 
 ## A sample of the project
 
@@ -54,6 +61,7 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 A responsive HTML Form coded from scratch. 
 
 ***
+**Highlights**
 - Form Structure
   - <form> tag contains all inputs, action and method included
   - Field set and legends added for "Contact information" and "Newsletter"
@@ -83,6 +91,7 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 A style guide is used defined the look and feel of user interface elements on a site. Sass is used to streamline the css creation. 
 
 ***
+**Highlights**
 - SASS
   - Introduction of vairables 
   ```
@@ -134,6 +143,7 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 A responsive Photo Gallery with a filter funcitonality 
 
 ***
+**Highlights**
 - The use of a jQuery Plugin 
   - A responsive photo Gallery implmentation 
 - Content Filtering
