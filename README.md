@@ -3,21 +3,27 @@ The following details all the projects from the Front End Web Development Techde
 1. [ A Basic Webpage](#unit1)
     - Github: https://github.com/KennySoh/treehouse_Front_End_Techdegree_Overview
     - Github Page: https://kennysoh.github.io/treehouse_Front_End_Techdegree_Overview
+      
 2. [A Responsive Webdesign](#unit2)
       - Github: https://github.com/KennySoh/treehouseFE_unit2_Responsive_Design
       - Github Page: https://kennysoh.github.io/treehouseFE_unit2_Responsive_Design
+        
 3. [A Responsive Online Registration Form](#unit3)
       - Github: https://github.com/KennySoh/treehouseFE_unit3_Responsive_Registration_Form
       - Github Page: https://kennysoh.github.io/treehouseFE_unit3_Responsive_Registration_Form
+        
 4. [A Web Style Guide & The use of Sass. ](#unit4)
       - Github: https://github.com/KennySoh/treehouseFE_unit4_SASS
       - Github Page: https://kennysoh.github.io/treehouseFE_unit4_SASS/
+        
 5. [A Photo Gallery, with jQuery & Javascript](#unit5)
       - Github: https://github.com/KennySoh/treehouseFE_unit5_Photo_Gallery_With_jQuery
       - Github Page: https://kennysoh.github.io/treehouseFE_unit5_Photo_Gallery_With_jQuery
+        
 6. [A Game Show App, JS ](#unit6)
       - Github: https://github.com/KennySoh/treehouseFE_unit6_Word_Guessing_App
       - Github Page: https://kennysoh.github.io/treehouseFE_unit6_Word_Guessing_App
+        
 
 <br/>
 <br/>  
