@@ -11,8 +11,9 @@
 # Unit1- A Basic Webpage
 This is a pure html & css markup website. 
    
+
+***
 **To Explore the projects:**
-*** 
   - Github: https://github.com/KennySoh/treehouseFE_unit1_Basic_Webpage/
   - Github Page: https://kennysoh.github.io/treehouseFE_unit1_Basic_Webpage/
 ***  
