@@ -7,7 +7,12 @@ The following details all the projects from the Front End Web Development Techde
 5. [A Photo Gallery, with jQuery & Javascript](#unit5)
 6. [A Game Show App, JS ](#unit6)
 
-
+  
+  
+  
+  
+  
+  
 <a name="unit1"></a>
 # Unit1- A Basic Webpage
 This is a basic html & css markup website. 
@@ -21,7 +26,14 @@ This is a basic html & css markup website.
   
 ## A sample of the project
 ![images](https://github.com/KennySoh/treehouse_unit1_Basic_Webpage/blob/master/sample-pic.png)
-
+  
+  
+  
+  
+  
+  
+  
+  
 <a name="unit2"></a>
 # Unit2- A Responsive Webdesign, a mobile first approach
 
@@ -55,7 +67,14 @@ A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1
 | Desktop (1024px)      |
 | ------------- |
 |![images](https://github.com/KennySoh/treehouse_unit2/blob/master/mockups/responsive-website_desktop1024.png) |
-
+  
+  
+  
+  
+  
+  
+  
+  
 <a name="unit3"></a>
 # Unit3- A Responsive Online Registration Form
 A responsive HTML Form coded from scratch. 
@@ -87,7 +106,13 @@ A responsive HTML Form coded from scratch.
 
 
 |![images](https://github.com/KennySoh/treehouse_unit3_Responsive_Registration_Form/blob/master/sample-pic1.png) |
-
+  
+  
+  
+  
+  
+  
+  
 <a name="unit4"></a>
 # Unit4- A Web Style Guide & The use of Sass. 
 A style guide is used defined the look and feel of user interface elements on a site. Sass is used to streamline the css creation. 
@@ -140,7 +165,13 @@ A style guide is used defined the look and feel of user interface elements on a 
 
 ## A sample of the project
 |![images](https://github.com/KennySoh/treehouseFE_unit4_SASS/blob/master/sample-pic.png) |
-
+  
+  
+  
+  
+  
+  
+  
 <a name="unit5"></a>
 # A Photo Gallery, with jQuery & Javascript
 A responsive Photo Gallery with a filter funcitonality 
@@ -170,7 +201,14 @@ A responsive Photo Gallery with a filter funcitonality
 | Content Filtering JS Script |
 | ------------- |
 |![images](https://github.com/KennySoh/treehouseFE_unit5_Photo_Gallery_With_jQuery/blob/master/sample-pic3.png)|
-
+  
+  
+  
+  
+  
+  
+  
+  
 <a name="unit6"></a>
 # Unit6- A Game Show App, JS 
 Multiple Screen Overlay transition and Dynamic word guessing with js. 
