@@ -5,4 +5,4 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
   
   
 ## A sample of the project
-![images]()
+![images](https://github.com/KennySoh/treehouse_unit1_Basic_Webpage/blob/master/sample-pic.png)
