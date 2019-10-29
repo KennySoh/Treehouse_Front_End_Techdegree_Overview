@@ -67,14 +67,14 @@ A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1
 | Desktop (1024px)      |
 | ------------- |
 |![images](https://github.com/KennySoh/treehouse_unit2/blob/master/mockups/responsive-website_desktop1024.png) |
-  
-  
-  
-  
-  
-  
-  
-  
+
+<br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
+
 <a name="unit3"></a>
 # Unit3- A Responsive Online Registration Form
 A responsive HTML Form coded from scratch. 
@@ -106,12 +106,13 @@ A responsive HTML Form coded from scratch.
 
 
 |![images](https://github.com/KennySoh/treehouse_unit3_Responsive_Registration_Form/blob/master/sample-pic1.png) |
-  
-  
-  
-  
-  
-  
+
+<br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
   
 <a name="unit4"></a>
 # Unit4- A Web Style Guide & The use of Sass. 
@@ -166,11 +167,12 @@ A style guide is used defined the look and feel of user interface elements on a 
 ## A sample of the project
 |![images](https://github.com/KennySoh/treehouseFE_unit4_SASS/blob/master/sample-pic.png) |
   
-  
-  
-  
-  
-  
+<br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
   
 <a name="unit5"></a>
 # A Photo Gallery, with jQuery & Javascript
@@ -202,12 +204,12 @@ A responsive Photo Gallery with a filter funcitonality
 | ------------- |
 |![images](https://github.com/KennySoh/treehouseFE_unit5_Photo_Gallery_With_jQuery/blob/master/sample-pic3.png)|
   
-  
-  
-  
-  
-  
-  
+<br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/> 
   
 <a name="unit6"></a>
 # Unit6- A Game Show App, JS 
