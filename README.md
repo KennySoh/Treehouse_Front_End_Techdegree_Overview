@@ -26,7 +26,7 @@ This is a basic html & css markup website.
 
 A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1024px)
 
-***
+
 **Highlights**
 - css
   - normalize.css (used to ensure cross browser uniformity) 
@@ -35,15 +35,14 @@ A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1
     - Uses 2 breakpoints 768px, 1024px| eg: @media (min-width: 768px)
 - google font
   - font-family: 'Carter One', cursive;
-***
+
   
   
   
-***
 **To Explore the projects:**
   - Github: https://github.com/KennySoh/treehouseFE_unit2_Responsive_Design
   - Github Page: https://kennysoh.github.io/treehouseFE_unit2_Responsive_Design
-***  
+
 
 ## A sample of the project
 
@@ -60,7 +59,7 @@ A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1
 # Unit3- A Responsive Online Registration Form
 A responsive HTML Form coded from scratch. 
 
-***
+
 **Highlights**
 - Form Structure
   - <form> tag contains all inputs, action and method included
@@ -77,7 +76,7 @@ A responsive HTML Form coded from scratch.
     - submit button
 - Mobile-First
    - breakpoint set at 768px
-***
+
 
 To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit3_Responsive_Registration_Form
 
