@@ -12,11 +12,11 @@
 This is a basic html & css markup website. 
    
 
-***
+
 **To Explore the projects:**
   - Github: https://github.com/KennySoh/treehouseFE_unit1_Basic_Webpage/
   - Github Page: https://kennysoh.github.io/treehouseFE_unit1_Basic_Webpage/
-***  
+  
   
 ## A sample of the project
 ![images](https://github.com/KennySoh/treehouse_unit1_Basic_Webpage/blob/master/sample-pic.png)
